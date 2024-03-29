@@ -73,7 +73,7 @@ class TeamsConnector(PollConnector, LoadConnector):
         def poll_source(self):
             pass
 
-        
+
     if __name__ == "__main__":
         pass
 
